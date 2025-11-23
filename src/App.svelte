@@ -80,7 +80,10 @@
           />
           <div class="flex justify-between text-xs text-neutral-400">
             <span>60%</span>
+            <span>65%</span>
             <span>70%</span>
+            <span>75%</span>
+            <span>80%</span>
             <span>85%</span>
           </div>
         </div>
