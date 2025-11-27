@@ -218,7 +218,7 @@
           <div>
             <h3 class="font-medium mb-1">Bake</h3>
             <p class="text-sm text-neutral-600">
-              Preheat Dutch oven at 230°C for 30 minutes. Turn out dough, score with a sharp blade. Bake covered 23 minutes at 230°C, then uncovered 10-20 minutes at 230°C until desired color. Internal temp should reach 96-99°C.
+              Preheat Dutch oven at 230°C for 30 minutes. Turn out dough, score with a sharp blade. Bake covered 23 minutes at 230°C, then uncovered 10-20 minutes at 200°C until desired color.
             </p>
           </div>
         </div>
